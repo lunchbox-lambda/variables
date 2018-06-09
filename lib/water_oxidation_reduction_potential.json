@@ -1,0 +1,6 @@
+{
+  "id": "water_oxidation_reduction_potential",
+  "name": "Water oxidation reduction potential",
+  "description": "Oxidation-reduction potential of the water",
+  "unit": "mV"
+}

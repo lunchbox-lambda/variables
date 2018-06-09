@@ -1,0 +1,6 @@
+{
+  "id": "water_temperature",
+  "name": "Water temperature",
+  "description": "Temperature of the water in degrees Celcius",
+  "unit": "°C"
+}

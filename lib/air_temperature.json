@@ -1,0 +1,6 @@
+{
+  "id": "air_temperature",
+  "name": "Air temperature",
+  "description": "Temperature of the air in degrees Celcius",
+  "unit": "°C"
+}

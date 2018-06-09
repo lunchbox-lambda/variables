@@ -1,0 +1,6 @@
+{
+  "id": "soil_moisture",
+  "name": "Soil moisture",
+  "description": "Volumetric water content in soil in percentage",
+  "unit": "%"
+}

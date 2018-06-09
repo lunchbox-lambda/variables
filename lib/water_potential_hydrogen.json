@@ -1,0 +1,6 @@
+{
+  "id": "water_potential_hydrogen",
+  "name": "Water potential hydrogen",
+  "description": "Potential Hydrogen of the water",
+  "unit": "pH"
+}

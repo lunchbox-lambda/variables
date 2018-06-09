@@ -1,0 +1,6 @@
+{
+  "id": "air_humidity",
+  "name": "Air humidity",
+  "description": "A measure of the concentration of water in the air relative to the maximum concentration at the current temperature",
+  "unit": "%"
+}

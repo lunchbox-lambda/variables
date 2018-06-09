@@ -1,0 +1,6 @@
+{
+  "id": "air_carbon_dioxide",
+  "name": "Air carbon dioxide",
+  "description": "The amount of carbon dioxide in the air",
+  "unit": "ppm"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "water_electrical_conductivity",
+  "name": "Water electrical conductivity",
+  "description": "Electrical conductivity of the water",
+  "unit": "uS/cm"
+}

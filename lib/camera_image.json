@@ -1,0 +1,6 @@
+{
+  "id": "camera_image",
+  "name": "Camera image",
+  "description": "Image from the camera facing the plants",
+  "unit": "png"
+}
