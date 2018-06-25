@@ -1,0 +1,6 @@
+{
+  "id": "light_intensity",
+  "name": "Light intensity",
+  "description": "The intensity of light falling at the plants",
+  "unit": "%"
+}

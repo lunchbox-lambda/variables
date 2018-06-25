@@ -1,6 +1,6 @@
 {
   "id": "light_illuminance",
   "name": "Light illuminance",
-  "description": "The intensity of light falling at the plants",
+  "description": "The illuminance of light falling at the plants",
   "unit": "lux"
 }
